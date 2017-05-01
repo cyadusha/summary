@@ -1,0 +1,21 @@
+---
+title: "Summary"
+author: "Yadu"
+date: "April 30, 2017"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+
+According to Francisco Martine,"The algorithm accounts only for 5% of the commercial success of our recommender systems. The interactive components of a recommender account only for about 50%." Several researchers have voiced this criticism. Accuracy, behaviorism, and rating are also not enough. For this reason, recommendations should be displayed in a careful manner. Some possible ways are visualization, input mechanisms, diversification of recommendations, and user-centric evaluation.
+
+However, in *The Filter Bubble* Eli Pariser argues that as recommenders only show us items that they think we like, we are automatically shielded from a broader variety of perspectives and experiences. His concern is that although we would be rendering good recommendations in the systems that we build, we might miss out on the discovery of classic items. 
+
+According to Bart Knijnenburg, *The Filter Bubble* poses a more troublesome consequence than missing out on discovering classic items. There would be a possibility that users would embrace the *The Filter Bubble*. Recommender systems are quite persuasive. Through psychological mechanisms, we might unknowingly be affected by the system and end up agreeing with whatever recommendations would be delivered. We might end up getting recommendations that either help us achieve our life goals or that detract us from these goals.    
+
+Self-actualization is one of the important purposes for building recommender systems. With self-actualization, our decision-making practices would not just be replaced but instead we would be aided in exploring, developing, and understanding our unique personal tastes. 
+
+Although recommender systems can never deliver perfect results, we can still at least optimize the quality of the recommendations delivered. Many times we can have an opinion about a certain topic (ie., movie, book, food item, television show, etc.). Later on, our opinion can change either because the topic would no longer be of interest to us or because our perspective of the topic can change with time. This also can be measured by allowing the same user to rate a certain item multiple times periodically. Then, the average rating can be taken by averaging the ratings by user by item.
+
+With changes that are ever-evolving, hopefully some day an optimal recommender system can be developed that will deliver useful results. Many times we do not have to always go with whatever recommendations a particular system delivers us. Those recommendations would just be based off the experiences of other users. We would never know the quality of something unless we either try it or experience it. In many scenarios, if worst comes to worst, we would end up just having a strong distaste for it. But it would not be the end of the world. At least we would know whether we like it or not. That is why many times they say, "Try it. You will like it." Or, they say, "If it doesn't kill you it will make you stronger."
